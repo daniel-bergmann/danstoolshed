@@ -40,7 +40,7 @@ a {
   font-size: 44px;
   letter-spacing: 2px;
   font-family: 'Pacifico', cursive;
-  color: rgb(152, 174, 245);
+  color: #333;
   text-shadow: 0 0 70px #39ff14;
   -webkit-text-stroke: 1px #39ff14;
 }
