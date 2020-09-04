@@ -96,7 +96,20 @@ a {
 }
 
 .card p {
-  padding: 5px;
+  padding: 1em;
+}
+
+article {
+  margin-bottom: 40px;
+}
+
+.link-underline {
+  border-bottom: white 1px solid;
+}
+
+.link-underline:hover {
+  background: white;
+  color: #333;
 }
 
 footer {
