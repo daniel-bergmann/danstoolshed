@@ -9,6 +9,7 @@
 body {
   background: #333;
   font-family: 'Source Code Pro', monospace;
+  opacity: 0.8;
 }
 
 ul {
